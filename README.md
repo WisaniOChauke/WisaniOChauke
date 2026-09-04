@@ -93,12 +93,6 @@ Just shipped **DayLoom** — a personal productivity OS built entirely from scra
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WisaniOChauke&theme=dark&background=0d0d0d&border=222222&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&dates=888888&sideLabels=F59E0B&sideNums=ffffff&currStreakNum=ffffff)
-
-</div>
-
-<div align="center">
-
 [![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline-0d0d0d?style=for-the-badge&logo=github&logoColor=F59E0B)](https://skyline.github.com/WisaniOChauke/2024)
 
 </div>
