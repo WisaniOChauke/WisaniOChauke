@@ -83,22 +83,6 @@ Just shipped **DayLoom** — a personal productivity OS built entirely from scra
 
 ---
 
-## ⬛ GitHub Stats
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WisaniOChauke&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/WisaniOChauke)
-
-</div>
-
-<div align="center">
-
-[![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline-0d0d0d?style=for-the-badge&logo=github&logoColor=F59E0B)](https://skyline.github.com/WisaniOChauke/2024)
-
-</div>
-
----
-
 ## ⬛ Currently
 
 - ✅ &nbsp; Shipped **DayLoom v1** — a full productivity app built from scratch
