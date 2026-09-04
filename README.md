@@ -34,7 +34,7 @@ I build **clean, purposeful web experiences** — the kind that feel effortless 
 
 My work lives at the intersection of **design and code**: minimal interfaces, thoughtful interactions, and products that actually solve problems.
 
-Currently shipping **DayLoom** — a personal productivity OS built entirely from scratch with Nuxt 3, TypeScript, and Pinia. Every feature, every animation, every design decision — intentional.
+Just shipped **DayLoom** — a personal productivity OS built entirely from scratch with Nuxt 3, TypeScript, and Pinia. Every feature, every animation, every design decision — intentional. Full-stack upgrades may be on the horizon.
 
 > *Discipline compounds. So does great code.*
 
@@ -76,7 +76,8 @@ Currently shipping **DayLoom** — a personal productivity OS built entirely fro
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | 🌅 **DayLoom** | Personal productivity OS — habits, goals, journal, XP system | Nuxt 3 · TypeScript · Tailwind · Pinia | [Live ↗](https://day-loom.vercel.app) |
-| 🏥 **MediQ** | Healthcare queue & appointment management system | Vue · TypeScript · Tailwind | Soon |
+| 🏥 **MediQ** | Healthcare queue & appointment management system | Vue · TypeScript · Tailwind | [Live ↗](https://mediq-wisani.netlify.app) |
+| 📦 **LogiSight** | Supply chain & logistics analytics dashboard | Vue · TypeScript · Tailwind | [Live ↗](https://logisight.netlify.app) |
 
 </div>
 
@@ -101,7 +102,7 @@ Currently shipping **DayLoom** — a personal productivity OS built entirely fro
 
 ## ⬛ Currently
 
-- 🔨 &nbsp; Shipping **DayLoom v1** — a full productivity app built from scratch
+- ✅ &nbsp; Shipped **DayLoom v1** — a full productivity app built from scratch
 - 📖 &nbsp; Deepening expertise in **TypeScript** and **system design**
 - 🎯 &nbsp; Building toward **full-stack** with Supabase & Node
 - 🌍 &nbsp; Open to **frontend roles**, **freelance**, and **collaborations**
