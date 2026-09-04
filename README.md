@@ -12,9 +12,9 @@
 
 *I don't just write code — I engineer experiences.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://wisanio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wisani-chauke)
-[![Email](https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiserowens@gmail.com)
 
 </div>
 
@@ -22,16 +22,21 @@
 
 ## ⬛ About Me
 
-```ts
-const wisani = {
-  title:      "Frontend Engineer",
-  location:   "South Africa 🇿🇦",
-  focus:      ["Clean UI", "Minimal Design", "Purposeful Products"],
-  building:   "DayLoom — a personal productivity OS",
-  philosophy: "Discipline compounds. So does great code.",
-  available:  true,
-};
-```
+<div align="center">
+
+🌍 &nbsp; **Midrand, South Africa** &nbsp;·&nbsp; 💼 &nbsp; **Frontend Engineer** &nbsp;·&nbsp; 🌐 &nbsp; [wisanio.netlify.app](https://wisanio.netlify.app)
+
+</div>
+
+<br />
+
+I build **clean, purposeful web experiences** — the kind that feel effortless to use but are carefully engineered under the hood.
+
+My work lives at the intersection of **design and code**: minimal interfaces, thoughtful interactions, and products that actually solve problems.
+
+Currently shipping **DayLoom** — a personal productivity OS built entirely from scratch with Nuxt 3, TypeScript, and Pinia. Every feature, every animation, every design decision — intentional.
+
+> *Discipline compounds. So does great code.*
 
 ---
 
@@ -71,7 +76,7 @@ const wisani = {
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | 🌅 **DayLoom** | Personal productivity OS — habits, goals, journal, XP system | Nuxt 3 · TypeScript · Tailwind · Pinia | [Live ↗](https://day-loom.vercel.app) |
-| 🔮 **StratosAI** | AI-powered platform | Vue · TypeScript | Soon |
+| 🏥 **MediQ** | Healthcare queue & appointment management system | Vue · TypeScript · Tailwind | Soon |
 
 </div>
 
