@@ -83,18 +83,17 @@ Just shipped **DayLoom** — a personal productivity OS built entirely from scra
 
 ---
 
-## ⬛ GitHub Stats
+## ⬛ GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=WisaniOChauke&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff&border_color=222222&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WisaniOChauke&layout=compact&theme=dark&bg_color=0d0d0d&title_color=F59E0B&text_color=ffffff&border_color=222222&hide_border=false" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WisaniOChauke&bg_color=0d0d0d&color=F59E0B&line=F59E0B&point=ffffff&area=true&area_color=F59E0B&hide_border=false&border_color=222222&radius=6)](https://github.com/WisaniOChauke)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WisaniOChauke&theme=dark&background=0d0d0d&border=222222&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B)
+![GitHub Streak](https://streak-stats.demolab.com?user=WisaniOChauke&theme=dark&background=0d0d0d&border=222222&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&dates=888888&sideLabels=F59E0B&sideNums=ffffff&currStreakNum=ffffff)
 
 </div>
 
