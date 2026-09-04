@@ -83,17 +83,23 @@ Just shipped **DayLoom** — a personal productivity OS built entirely from scra
 
 ---
 
-## ⬛ GitHub Activity
+## ⬛ GitHub Stats
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WisaniOChauke&bg_color=0d0d0d&color=F59E0B&line=F59E0B&point=ffffff&area=true&area_color=F59E0B&hide_border=false&border_color=222222&radius=6)](https://github.com/WisaniOChauke)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WisaniOChauke&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/WisaniOChauke)
 
 </div>
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=WisaniOChauke&theme=dark&background=0d0d0d&border=222222&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&dates=888888&sideLabels=F59E0B&sideNums=ffffff&currStreakNum=ffffff)
+
+</div>
+
+<div align="center">
+
+[![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline-0d0d0d?style=for-the-badge&logo=github&logoColor=F59E0B)](https://skyline.github.com/WisaniOChauke/2024)
 
 </div>
 
