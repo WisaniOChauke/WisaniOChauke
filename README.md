@@ -76,8 +76,8 @@ Just shipped **DayLoom** — a personal productivity OS built entirely from scra
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | 🌅 **DayLoom** | Personal productivity OS — habits, goals, journal, XP system | Nuxt 3 · TypeScript · Tailwind · Pinia | [Live ↗](https://day-loom.vercel.app) |
-| 🏥 **MediQ** | Healthcare queue & appointment management system | Vue · TypeScript · Tailwind | [Live ↗](https://mediq-wisani.netlify.app) |
-| 📦 **LogiSight** | Supply chain & logistics analytics dashboard | Vue · TypeScript · Tailwind | [Live ↗](https://logisight.netlify.app) |
+| 🏥 **MediQ** | Healthcare queue & appointment management system | Angular 18 · NgRx · Angular Material · TypeScript | [Live ↗](https://mediq-wisani.netlify.app) |
+| 📦 **LogiSight** | Supply chain & logistics analytics dashboard | Next.js · React · Tailwind · Docker · Terraform | [Live ↗](https://logisight.netlify.app) |
 
 </div>
 
